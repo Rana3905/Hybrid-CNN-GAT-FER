@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "Hybrid CNN-GAT Fusion for Facial Emotion Recognition Using Appearance and Landmark Geometry"
+authors:
+  - family-names: Rana
+    given-names: Md Jahidul Islam
+    orcid: "https://orcid.org/0009-0005-2737-4779"
+  - family-names: Druba
+    given-names: Rahim Ahmed
+    orcid: "https://orcid.org/0009-0001-2177-9960"
+  - family-names: Oruzgani
+    given-names: Irshad Ahmad
+    orcid: "https://orcid.org/0009-0005-1403-4804"
+preferred-citation:
+  type: conference-paper
+  title: "Hybrid CNN-GAT Fusion for Facial Emotion Recognition Using Appearance and Landmark Geometry"
+  authors:
+    - family-names: Rana
+      given-names: Md Jahidul Islam
+    - family-names: Druba
+      given-names: Rahim Ahmed
+    - family-names: Oruzgani
+      given-names: Irshad Ahmad
+  conference:
+    name: "2026 IEEE 3rd International Student Conference on Digital Generation"
+    city: Astana
+    country: KZ
+  year: 2026

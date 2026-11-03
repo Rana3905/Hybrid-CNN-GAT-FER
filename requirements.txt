@@ -1,0 +1,16 @@
+# Versions used for the paper's experiments (Python 3.12, CUDA 12.4).
+# Install PyTorch first, matching your CUDA version:
+#   pip install torch==2.6.0 torchvision==0.21.0 --index-url https://download.pytorch.org/whl/cu124
+torch==2.6.0
+torchvision==0.21.0
+torch-geometric==2.7.0
+mediapipe==0.10.32
+opencv-python
+numpy
+pandas
+scikit-learn==1.4.2
+matplotlib
+seaborn==0.13.2
+pillow
+notebook
+ipykernel

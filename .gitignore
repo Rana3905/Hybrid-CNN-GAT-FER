@@ -1,0 +1,20 @@
+# Datasets (download separately, see data/README.md)
+data/*
+!data/README.md
+
+# Training artefacts
+checkpoints/
+outputs/
+graph_cache*/
+*.pth
+*.pt
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
